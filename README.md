@@ -1,2 +1,3 @@
 # MyPlayground
-Sample Android Project
+Sample Android Project.
+Trying out new stuff with compose 
